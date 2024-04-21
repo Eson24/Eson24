@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<i(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<i(img align="right" alt="Coding" width="400" src="https://c.tenor.com/fodqnVfetu0AAAAC/animation-clean.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eson24&label=Profile%20views&color=0e75b6&style=flat" alt="eson24" /> </p>
 
