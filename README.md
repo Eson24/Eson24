@@ -11,9 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eson24&label=Profile%20views&color=0e75b6&style=flat" alt="eson24" /> </p>
 
-- 📄 Know about my experiences [Want to Learn More](Want to Learn More)
-
-- ⚡ Fun fact **Newbie**
+- 📄 Know about my experiences [Want to Learn More]
+- ⚡ Fun fact **IM Newbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
