@@ -11,6 +11,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eson24&label=Profile%20views&color=0e75b6&style=flat" alt="eson24" /> </p>
 
+- 📄 Know about my experiences [Want to Learn More](Want to Learn More)
+
+- ⚡ Fun fact **Newbie**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@eson24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@eson24" height="30" width="40" /></a>
