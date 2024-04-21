@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://placehold.it/1000x150" alt="https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif)
-">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 </p>
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">A passionate Newbie developer from Philippines</h3>
