@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.it/421x210" alt="[Banner](https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif)">
+  <img src="https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif" alt="Banner">
 </p>
 
 </p>
