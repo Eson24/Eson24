@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://placehold.it/1000x150" alt="![image](https://github.com/Eson24/Eson24/assets/117335842/98fa01d7-34b8-4c5e-9661-43eb6c2ca7ef)
+">
+</p>
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">A passionate Newbie developer from Philippines</h3>
 <p align="right">
